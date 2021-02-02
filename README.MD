@@ -4,7 +4,7 @@ Implementation of CNN-VAE for MNIST reconstrunction.
 
 Training Loss for reconstrunction shows below:
 
-![alt text](https://github.com/JoseVillagranE/Convolutional-VariationalAutoencoder/blob/master/images/training_loss.png "Training Loss")
+![alt text](https://github.com/JoseVillagranE/Convolutional-VariationalAutoencoder/blob/master/images/Training_loss.png "Training Loss")
 
 The next images show original images from test set:
 
